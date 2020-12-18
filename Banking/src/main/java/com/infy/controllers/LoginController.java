@@ -14,7 +14,7 @@ public class LoginController {
 		System.out.println("abcd ");
 	}
 	
-static void m5()
+static void m52()
 
 	
 	{
