@@ -6,5 +6,9 @@ public class LoginController {
 	{
 		System.out.println("abcd ");
 	}
+	static void m3()
+	{
+		System.out.println("abcd ");
+	}
 	
 }
