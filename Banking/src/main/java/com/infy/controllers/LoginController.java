@@ -20,5 +20,10 @@ static void m56()
 	{
 		System.out.println("abcd ");
 	}
+
+static void m53()
+{
+	System.out.println("abcd ");
+}
 	
 }
