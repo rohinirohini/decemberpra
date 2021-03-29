@@ -24,6 +24,7 @@ static void m56()
 static void m53()
 {
 	System.out.println("abcd ");
+	System.out.println("abcd ");
 }
 	
 }
